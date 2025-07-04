@@ -64,10 +64,6 @@ To run this project locally:
 - **Increase Attendance**: Monitor students with low attendance correlated with poor performance.
 - **Improve Time Management**: Track average weekly study time and guide students to meet recommended hours.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙌 Acknowledgements
 
 Thanks to the resources and datasets that helped shape this project, including any sample data used for testing and validation.
